@@ -16,6 +16,8 @@ zhanyouwei@icloud.com
 
 [GitHub](http://www.zhanyouwei.com)
 
+[SegmentFault](https://segmentfault.com/blog/youwei)
+
 [网易](http://blog.163.com/gis_warrior/)
 
 

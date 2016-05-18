@@ -2,18 +2,18 @@
   position: fixed;
   bottom: 30px;
   left: 50%;
-  max-width: 80%;
-  text-align: center;
   transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
   z-index: 99999;
-  background: #3B3F4B;
+  font-size: 1.2rem;
+  max-width: 80%;
+  text-align: center;
   line-height: normal;
   color: #fff;
+  background: #3B3F4B;
   word-wrap: break-word;
   padding: 5px;
   border-radius: 3px;
-  font-size: 1.2rem;
 }
 
 .am-toast-success {

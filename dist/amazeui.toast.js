@@ -16,7 +16,7 @@ function Toast($element, options) {
   }, options);
   this.show();
   timeOut = setTimeout(function () {
-    $element.remove();
+    $element.find('.am-toast').remove();
     window.clearTimeout(timeOut);
   }, this.options.duration);
 }
