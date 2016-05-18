@@ -4,11 +4,9 @@ Toast for Amaze UI。
 
 操作提示组件
 
-## API
+[GitHub项目地址](https://github.com/zhanyouwei/Toast)
 
-需要提供 API 说明，属性、方法、事件等。
-
-### options
+## options
 
 #### text
 
