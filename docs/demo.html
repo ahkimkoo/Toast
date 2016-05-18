@@ -7,27 +7,11 @@
   <title>Toast Demo</title>
   <link rel="stylesheet" href="./../dist/amazeui.min.css">
   <link rel="stylesheet" href="./../dist/amazeui.toast.css">
-  <script src="./../dist/jquery.min.js"></script>
-  <script src="./../dist/amazeui.min.js"></script>
-  <script src="./../dist/amazeui.toast.js"></script>
 </head>
 <body>
 </body>
-<script>
-  $(function () {
-    var typeArr = ['success', 'warning', 'danger', 'secondary'];
-    showDemo();
-    setInterval(function () {
-      showDemo();
-    }, 3000);
-
-    function showDemo() {
-      $('body').toast({
-        text: 'Amaze UI Toast',
-        duration: 2000,
-        type: typeArr[Math.floor(Math.random() * 4)]
-      });
-    }
-  });
-</script>
+<script src="./../dist/jquery.min.js"></script>
+<script src="./../dist/amazeui.min.js"></script>
+<script src="./../dist/amazeui.toast.js"></script>
+<script src="./demo.js"></script>
 </html>
